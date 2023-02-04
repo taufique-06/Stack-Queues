@@ -17,9 +17,9 @@ In terms of stack, removing starts from the top. So First we remove 4, then 3,2,
 
 There are three types of public methods in Stack class as described below
 
-Count  - Gets the number of object contains in stack.
-Push - Inserts an object at the top of the stack.
-Pop - Removes and returns the object at the top of stack
+1. Count  - Gets the number of object contains in stack.
+2. Push - Inserts an object at the top of the stack.
+3. Pop - Removes and returns the object at the top of stack
 
 # Deque
 In the case of an ordinary queue, items can only be added at the back and retrieved from the front of the queue. However, a deque allows items to be added at and retrieved from either end of the queue. So the insertion and removal can be done in both ways. Deques are often implemented using doubly linked lists to which they are closely related. In fact another name for a deque is a 'head-tail linked list'.
