@@ -30,3 +30,5 @@ C:\Users\taufique.azad\Repos\MyPersonalProject\Stack-Queues\Stacks and Queues\St
 C:\Users\taufique.azad\Repos\MyPersonalProject\Stack-Queues\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\StackAndQueues.pdb
 C:\Users\taufique.azad\Repos\MyPersonalProject\Stack-Queues\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\StackAndQueues.genruntimeconfig.cache
 C:\Users\taufique.azad\Repos\MyPersonalProject\Stack-Queues\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\ref\StackAndQueues.dll
+C:\Users\taufique.azad\Repos\MyPersonalProject\Stack-Queues\Stacks and Queues\StackAndQueues\bin\Debug\net6.0\DotLiquid.dll
+C:\Users\taufique.azad\Repos\MyPersonalProject\Stack-Queues\Stacks and Queues\StackAndQueues\bin\Debug\net6.0\it\DotLiquid.resources.dll

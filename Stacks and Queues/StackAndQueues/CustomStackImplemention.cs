@@ -23,7 +23,7 @@ namespace StackAndQueues
             this.data = new int[size];
         }
 
-        public Boolean push(int item)
+        public virtual Boolean push(int item) // using virtual because we will override this method in DynamicCustomStackImplementation class
         {
             if (IsFull())
             {
@@ -35,7 +35,7 @@ namespace StackAndQueues
             return true;
         }
 
-        private bool IsFull()
+        public bool IsFull()
         {
             return pointer == data.Length - 1;
         }
