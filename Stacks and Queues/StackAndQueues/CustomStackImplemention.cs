@@ -6,7 +6,57 @@ using System.Threading.Tasks;
 
 namespace StackAndQueues
 {
-    internal class CustomStackImplemention
+    public class CustomStackImplemention
     {
+        //a stack is a sort of array. Array is the main datastructure where the data is placed
+        protected int[] data;
+        private static int DEFAULT_SIZE = 10; //giving the array a default size
+        private int pointer = -1;
+
+        public CustomStackImplemention()
+        {
+            this.data = new int[DEFAULT_SIZE];
+        }
+
+        public CustomStackImplemention(int size)
+        {
+            this.data = new int[size];
+        }
+
+        public Boolean push(int item)
+        {
+            if (IsFull())
+            {
+                Console.WriteLine("Stack is Full");
+                return false;
+            }
+            pointer++;
+            data[pointer] = item;
+            return true;
+        }
+
+        private bool IsFull()
+        {
+            return pointer == data.Length - 1;
+        }
+
+        public int pop()
+        {
+            if (IsEmpty())
+            {
+                throw new Exception("Can not remove from an empty stack");
+            }
+            return data[pointer--];
+        }
+
+        private bool IsEmpty()
+        {
+            return pointer ==  -1;
+        }
+
+        public int peek()
+        {
+            return data[pointer];
+        }
     }
 }
