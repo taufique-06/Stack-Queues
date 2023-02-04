@@ -1,0 +1,15 @@
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\bin\Debug\net6.0\StackAndQueues.exe
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\bin\Debug\net6.0\StackAndQueues.deps.json
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\bin\Debug\net6.0\StackAndQueues.runtimeconfig.json
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\bin\Debug\net6.0\StackAndQueues.dll
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\bin\Debug\net6.0\StackAndQueues.pdb
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\StackAndQueues.csproj.AssemblyReference.cache
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\StackAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\StackAndQueues.AssemblyInfoInputs.cache
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\StackAndQueues.AssemblyInfo.cs
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\StackAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\StackAndQueues.dll
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\refint\StackAndQueues.dll
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\StackAndQueues.pdb
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\StackAndQueues.genruntimeconfig.cache
+C:\Users\taufique.azad\Repos\Stacks and Queues\StackAndQueues\obj\Debug\net6.0\ref\StackAndQueues.dll

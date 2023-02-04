@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S6FHF8LM/Z/YsfPwGjLv+rbtFjB5UUEDv6OimWZIw6Py5/SPJF/399eVgWfrhei+x5R9QCHktE6GckdCBW56xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taufique.azad\\Repos\\MyPersonalProject\\Stack-Queues\\Stacks and Queues\\StackAndQueues\\StackAndQueues.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taufique.azad\\.nuget\\packages\\nito.collections.deque\\1.1.1\\nito.collections.deque.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
